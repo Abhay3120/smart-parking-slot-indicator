@@ -5,7 +5,7 @@ An IoT-based system that detects whether each parking slot is free or occupied u
 ## Project Details
 
 - **Subject:** Digital Electronics
-- **Submitted to:** Neeraj Pathak
+- **Submitted to:** Niraj Pathak
 - **University:** K.R. Mangalam University
 
 ## Team Members
