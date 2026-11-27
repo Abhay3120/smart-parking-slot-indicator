@@ -16,6 +16,7 @@ An IoT-based system that detects whether each parking slot is free or occupied u
 | Ritesh | 2601730249 |
 | Aditya Choudhary | 2601730238 |
 | Abhay Kumar | 2601730232 |
+| Harshit Singh | 2601730274 |
 
 ## Components Used
 
